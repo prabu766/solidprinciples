@@ -1,4 +1,4 @@
-package solid.principle.singleresponsibility;
+package solid.principle.single.responsibility;
 
 /**
  * 
