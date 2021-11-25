@@ -1,5 +1,5 @@
 # solidprinciples
-This project is to explain the SOLID principles. 
+This project is to explain the SOLID principles with code samples. 
 
 Solid Principles are
 
