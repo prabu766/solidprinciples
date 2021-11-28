@@ -1,6 +1,10 @@
 package solid.principle.dependency.inversion;
 
-
+/**
+ * 
+ * @author prabhuddha.bhashitha
+ *
+ */
 public abstract class Account {
 	
 	private double balance;
@@ -12,7 +16,5 @@ public abstract class Account {
 	public void setBalance(double balance) {
 		this.balance = balance;
 	}
-	
-	
 
 }
